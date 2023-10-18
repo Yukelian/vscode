@@ -2,5 +2,5 @@
 
 void main()
 {
-    printf("123\n");
+    printf("121223\n");
 }
